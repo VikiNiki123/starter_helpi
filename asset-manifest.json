@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/starter_helpi/static/css/main.46771871.css",
-    "main.js": "/starter_helpi/static/js/main.fadbd867.js",
+    "main.css": "/starter_helpi/static/css/main.e555d4ac.css",
+    "main.js": "/starter_helpi/static/js/main.6e809263.js",
     "static/js/453.bad6c33a.chunk.js": "/starter_helpi/static/js/453.bad6c33a.chunk.js",
+    "static/media/temp_image.png": "/starter_helpi/static/media/temp_image.0a0063e1d4473ae8c7b5.png",
+    "static/media/CISC-Logo.png": "/starter_helpi/static/media/CISC-Logo.028cd57e7c18888760fd.png",
+    "static/media/CISC-Footer-Logo.png": "/starter_helpi/static/media/CISC-Footer-Logo.9460ad5b4a4739c2cc2d.png",
+    "static/media/CISC-MAP-Hard.png": "/starter_helpi/static/media/CISC-MAP-Hard.2c12e873fb3f2d8da278.png",
+    "static/media/CISC-Footer-GIT.png": "/starter_helpi/static/media/CISC-Footer-GIT.d874f857b09f92ade2ac.png",
+    "static/media/CISC-GPS-Easy.png": "/starter_helpi/static/media/CISC-GPS-Easy.91e54cc40ea3b1cf5acd.png",
     "static/media/logo.svg": "/starter_helpi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/starter_helpi/index.html",
-    "main.46771871.css.map": "/starter_helpi/static/css/main.46771871.css.map",
-    "main.fadbd867.js.map": "/starter_helpi/static/js/main.fadbd867.js.map",
+    "main.e555d4ac.css.map": "/starter_helpi/static/css/main.e555d4ac.css.map",
+    "main.6e809263.js.map": "/starter_helpi/static/js/main.6e809263.js.map",
     "453.bad6c33a.chunk.js.map": "/starter_helpi/static/js/453.bad6c33a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46771871.css",
-    "static/js/main.fadbd867.js"
+    "static/css/main.e555d4ac.css",
+    "static/js/main.6e809263.js"
   ]
 }
