@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/starter_helpi/static/css/main.98e3f7c4.css",
-    "main.js": "/starter_helpi/static/js/main.bf4bb1cf.js",
+    "main.js": "/starter_helpi/static/js/main.e6429657.js",
     "static/js/453.bad6c33a.chunk.js": "/starter_helpi/static/js/453.bad6c33a.chunk.js",
     "static/media/temp_image.png": "/starter_helpi/static/media/temp_image.0a0063e1d4473ae8c7b5.png",
     "static/media/CISC-Logo.png": "/starter_helpi/static/media/CISC-Logo.028cd57e7c18888760fd.png",
@@ -16,11 +16,11 @@
     "static/media/logo.svg": "/starter_helpi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/starter_helpi/index.html",
     "main.98e3f7c4.css.map": "/starter_helpi/static/css/main.98e3f7c4.css.map",
-    "main.bf4bb1cf.js.map": "/starter_helpi/static/js/main.bf4bb1cf.js.map",
+    "main.e6429657.js.map": "/starter_helpi/static/js/main.e6429657.js.map",
     "453.bad6c33a.chunk.js.map": "/starter_helpi/static/js/453.bad6c33a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98e3f7c4.css",
-    "static/js/main.bf4bb1cf.js"
+    "static/js/main.e6429657.js"
   ]
 }
