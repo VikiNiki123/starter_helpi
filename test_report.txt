@@ -138,12 +138,12 @@ FAIL src/App.test.tsx
 -----------------------|---------|----------|---------|---------|-------------------
 File                   | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
 -----------------------|---------|----------|---------|---------|-------------------
-All files              |    8.46 |     4.16 |    6.38 |    8.52 |                   
+All files              |   10.37 |     6.25 |     8.1 |   10.47 |                   
  AboutMe.tsx           |       0 |      100 |       0 |       0 | 5-6               
  App.tsx               |   64.28 |       50 |      40 |   69.23 | 22-28,35          
  ButtonLink.tsx        |       0 |      100 |       0 |       0 | 11-16             
  ClearButton.tsx       |       0 |      100 |       0 |       0 | 4-15              
- DetailedQuestions.tsx |       0 |        0 |       0 |       0 | 7-184             
+ DetailedQuestions.tsx |       0 |        0 |       0 |       0 | 9-137             
  Loading.tsx           |     100 |      100 |     100 |     100 |                   
  basicQuestion.tsx     |       0 |        0 |       0 |       0 | 7-109             
  basicresult.tsx       |       0 |      100 |       0 |       0 | 6                 
@@ -157,5 +157,5 @@ All files              |    8.46 |     4.16 |    6.38 |    8.52 |
 Test Suites: 1 failed, 1 total
 Tests:       1 failed, 1 total
 Snapshots:   0 total
-Time:        2.882 s
+Time:        2.9 s
 Ran all test suites.
