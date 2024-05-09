@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/starter_helpi/static/css/main.d456d01c.css",
-    "main.js": "/starter_helpi/static/js/main.af0b3c2b.js",
+    "main.css": "/starter_helpi/static/css/main.9b2d5da1.css",
+    "main.js": "/starter_helpi/static/js/main.1b00e91b.js",
     "static/js/453.bad6c33a.chunk.js": "/starter_helpi/static/js/453.bad6c33a.chunk.js",
     "static/media/Viki-Photo.png": "/starter_helpi/static/media/Viki-Photo.115ad4791fdee0fc0c53.png",
     "static/media/Gia-Photo.png": "/starter_helpi/static/media/Gia-Photo.166b53938a825dc06400.png",
@@ -10,12 +10,12 @@
     "static/media/CISC-Logo.png": "/starter_helpi/static/media/CISC-Logo.028cd57e7c18888760fd.png",
     "static/media/CISC-Footer-Logo.png": "/starter_helpi/static/media/CISC-Footer-Logo.9460ad5b4a4739c2cc2d.png",
     "static/media/cat-header.png": "/starter_helpi/static/media/cat-header.4c860ae85ec2c8a38578.png",
+    "static/media/catBasicQuestion.png": "/starter_helpi/static/media/catBasicQuestion.6862d75d0765de0941db.png",
     "static/media/CISC-Footer-GIT.png": "/starter_helpi/static/media/CISC-Footer-GIT.d874f857b09f92ade2ac.png",
-    "static/media/basic-cat-header.webp": "/starter_helpi/static/media/basic-cat-header.9b2c57a9d0a3b6b2c499.webp",
+    "static/media/CatHeaderBasic (1).png": "/starter_helpi/static/media/CatHeaderBasic (1).082f64c04b4a505ee011.png",
     "static/media/detailed_next_button.png": "/starter_helpi/static/media/detailed_next_button.4e6d6e1f16d9f58bcacd.png",
     "static/media/detailed_prev_button.png": "/starter_helpi/static/media/detailed_prev_button.64fb5b91b23d5308c2fe.png",
     "static/media/cat-paw-button.png": "/starter_helpi/static/media/cat-paw-button.d1eaa5453914cc013008.png",
-    "static/media/cat-header-box (1).webp": "/starter_helpi/static/media/cat-header-box (1).1c2c8478fee5c9aef72d.webp",
     "static/media/CISC-progress-cat-fight.gif": "/starter_helpi/static/media/CISC-progress-cat-fight.b60c2370c98d837a8838.gif",
     "static/media/CISC-progress-cat-walking.gif": "/starter_helpi/static/media/CISC-progress-cat-walking.b7ca1a0127d7cfa4da74.gif",
     "static/media/CISC-progress-cat-eat.gif": "/starter_helpi/static/media/CISC-progress-cat-eat.4a11de2770f1d6078a54.gif",
@@ -25,12 +25,12 @@
     "static/media/Sitting_orange.webp": "/starter_helpi/static/media/Sitting_orange.8be28bb42c34404adf37.webp",
     "static/media/calico_cat_sitting.webp": "/starter_helpi/static/media/calico_cat_sitting.337107d0ee70e29b0627.webp",
     "index.html": "/starter_helpi/index.html",
-    "main.d456d01c.css.map": "/starter_helpi/static/css/main.d456d01c.css.map",
-    "main.af0b3c2b.js.map": "/starter_helpi/static/js/main.af0b3c2b.js.map",
+    "main.9b2d5da1.css.map": "/starter_helpi/static/css/main.9b2d5da1.css.map",
+    "main.1b00e91b.js.map": "/starter_helpi/static/js/main.1b00e91b.js.map",
     "453.bad6c33a.chunk.js.map": "/starter_helpi/static/js/453.bad6c33a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d456d01c.css",
-    "static/js/main.af0b3c2b.js"
+    "static/css/main.9b2d5da1.css",
+    "static/js/main.1b00e91b.js"
   ]
 }
