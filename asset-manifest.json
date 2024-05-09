@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/starter_helpi/static/css/main.4cee73cf.css",
-    "main.js": "/starter_helpi/static/js/main.686dc456.js",
+    "main.css": "/starter_helpi/static/css/main.d456d01c.css",
+    "main.js": "/starter_helpi/static/js/main.af0b3c2b.js",
     "static/js/453.bad6c33a.chunk.js": "/starter_helpi/static/js/453.bad6c33a.chunk.js",
     "static/media/Viki-Photo.png": "/starter_helpi/static/media/Viki-Photo.115ad4791fdee0fc0c53.png",
     "static/media/Gia-Photo.png": "/starter_helpi/static/media/Gia-Photo.166b53938a825dc06400.png",
@@ -17,20 +17,20 @@
     "static/media/cat-paw-button.png": "/starter_helpi/static/media/cat-paw-button.d1eaa5453914cc013008.png",
     "static/media/cat-header-box (1).webp": "/starter_helpi/static/media/cat-header-box (1).1c2c8478fee5c9aef72d.webp",
     "static/media/CISC-progress-cat-fight.gif": "/starter_helpi/static/media/CISC-progress-cat-fight.b60c2370c98d837a8838.gif",
+    "static/media/CISC-progress-cat-walking.gif": "/starter_helpi/static/media/CISC-progress-cat-walking.b7ca1a0127d7cfa4da74.gif",
     "static/media/CISC-progress-cat-eat.gif": "/starter_helpi/static/media/CISC-progress-cat-eat.4a11de2770f1d6078a54.gif",
     "static/media/Minecraft.ttf": "/starter_helpi/static/media/Minecraft.81f6c7f882fcc2dee106.ttf",
     "static/media/easvhs.ttf": "/starter_helpi/static/media/easvhs.ac5c4d8e65a1551d456a.ttf",
     "static/media/Lying_down_Calico_Cat_with_Red_Collar.webp": "/starter_helpi/static/media/Lying_down_Calico_Cat_with_Red_Collar.0af4bd5ef6dc8a58c5ac.webp",
     "static/media/Sitting_orange.webp": "/starter_helpi/static/media/Sitting_orange.8be28bb42c34404adf37.webp",
     "static/media/calico_cat_sitting.webp": "/starter_helpi/static/media/calico_cat_sitting.337107d0ee70e29b0627.webp",
-    "static/media/logo.svg": "/starter_helpi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/starter_helpi/index.html",
-    "main.4cee73cf.css.map": "/starter_helpi/static/css/main.4cee73cf.css.map",
-    "main.686dc456.js.map": "/starter_helpi/static/js/main.686dc456.js.map",
+    "main.d456d01c.css.map": "/starter_helpi/static/css/main.d456d01c.css.map",
+    "main.af0b3c2b.js.map": "/starter_helpi/static/js/main.af0b3c2b.js.map",
     "453.bad6c33a.chunk.js.map": "/starter_helpi/static/js/453.bad6c33a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cee73cf.css",
-    "static/js/main.686dc456.js"
+    "static/css/main.d456d01c.css",
+    "static/js/main.af0b3c2b.js"
   ]
 }

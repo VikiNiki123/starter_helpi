@@ -8,7 +8,7 @@
         at svg
         at div
         at Loading
-        at App (/home/runner/work/starter_helpi/starter_helpi/src/App.tsx:13:33)
+        at App (/home/runner/work/starter_helpi/starter_helpi/src/App.tsx:14:33)
 
       4 |
       5 | test('renders learn react link', () => {
@@ -44,7 +44,7 @@
       at runCLI (node_modules/@jest/core/build/cli/index.js:173:3)
 
 FAIL src/App.test.tsx
-  ✕ renders learn react link (69 ms)
+  ✕ renders learn react link (68 ms)
 
   ● renders learn react link
 
@@ -138,24 +138,25 @@ FAIL src/App.test.tsx
 -----------------------|---------|----------|---------|---------|-------------------
 File                   | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
 -----------------------|---------|----------|---------|---------|-------------------
-All files              |    7.14 |      3.7 |    6.97 |    7.18 |                   
+All files              |    6.98 |     2.04 |    6.52 |    7.02 |                   
  AboutMe.tsx           |       0 |      100 |       0 |       0 | 10-11             
- App.tsx               |   64.28 |       50 |      40 |   69.23 | 22-28,35          
+ App.tsx               |   66.66 |       50 |      40 |   71.42 | 25-31,38          
  ButtonLink.tsx        |       0 |      100 |       0 |       0 | 11-16             
  ClearButton.tsx       |       0 |      100 |       0 |       0 | 4-15              
- DetailedQuestions.tsx |       0 |        0 |       0 |       0 | 20-365            
+ DetailedQuestions.tsx |       0 |        0 |       0 |       0 | 19-366            
  Loading.tsx           |     100 |      100 |     100 |     100 |                   
- basicQuestion.tsx     |       0 |        0 |       0 |       0 | 10-154            
+ ProgressBar.tsx       |    3.22 |        0 |       0 |    3.22 | 18-60             
+ basicQuestion.tsx     |       0 |        0 |       0 |       0 | 11-163            
  basicresult.tsx       |       0 |      100 |       0 |       0 | 8-11              
  footer.tsx            |       0 |        0 |       0 |       0 | 8-28              
  homepage.tsx          |       0 |      100 |       0 |       0 | 7-8               
- index.tsx             |       0 |      100 |     100 |       0 | 16-43             
- navbar.tsx            |       0 |      100 |       0 |       0 | 11                
+ index.tsx             |       0 |      100 |     100 |       0 | 15-42             
+ navbar.tsx            |       0 |      100 |       0 |       0 | 10                
  reportWebVitals.ts    |       0 |        0 |       0 |       0 | 3-10              
  result.tsx            |       0 |        0 |       0 |       0 | 4-13              
 -----------------------|---------|----------|---------|---------|-------------------
 Test Suites: 1 failed, 1 total
 Tests:       1 failed, 1 total
 Snapshots:   0 total
-Time:        2.985 s
+Time:        3.134 s
 Ran all test suites.
