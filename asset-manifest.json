@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/starter_helpi/static/css/main.9b2d5da1.css",
-    "main.js": "/starter_helpi/static/js/main.897eb3fc.js",
+    "main.css": "/starter_helpi/static/css/main.68d1bb9e.css",
+    "main.js": "/starter_helpi/static/js/main.094a0a74.js",
     "static/js/453.bad6c33a.chunk.js": "/starter_helpi/static/js/453.bad6c33a.chunk.js",
     "static/media/Viki-Photo.png": "/starter_helpi/static/media/Viki-Photo.115ad4791fdee0fc0c53.png",
     "static/media/Gia-Photo.png": "/starter_helpi/static/media/Gia-Photo.166b53938a825dc06400.png",
     "static/media/Dustine-Photo.png": "/starter_helpi/static/media/Dustine-Photo.974b036ec234ded4db85.png",
     "static/media/Dustin-Photo.png": "/starter_helpi/static/media/Dustin-Photo.a38a042fa7dddab1c752.png",
+    "static/media/cat-header.png": "/starter_helpi/static/media/cat-header.228049f43826d43d6f35.png",
     "static/media/CISC-Logo.png": "/starter_helpi/static/media/CISC-Logo.028cd57e7c18888760fd.png",
     "static/media/CISC-Footer-Logo.png": "/starter_helpi/static/media/CISC-Footer-Logo.9460ad5b4a4739c2cc2d.png",
-    "static/media/cat-header.png": "/starter_helpi/static/media/cat-header.4c860ae85ec2c8a38578.png",
     "static/media/catBasicQuestion.png": "/starter_helpi/static/media/catBasicQuestion.6862d75d0765de0941db.png",
     "static/media/CISC-Footer-GIT.png": "/starter_helpi/static/media/CISC-Footer-GIT.d874f857b09f92ade2ac.png",
     "static/media/CatHeaderBasic (1).png": "/starter_helpi/static/media/CatHeaderBasic (1).082f64c04b4a505ee011.png",
@@ -25,12 +25,12 @@
     "static/media/Sitting_orange.webp": "/starter_helpi/static/media/Sitting_orange.8be28bb42c34404adf37.webp",
     "static/media/calico_cat_sitting.webp": "/starter_helpi/static/media/calico_cat_sitting.337107d0ee70e29b0627.webp",
     "index.html": "/starter_helpi/index.html",
-    "main.9b2d5da1.css.map": "/starter_helpi/static/css/main.9b2d5da1.css.map",
-    "main.897eb3fc.js.map": "/starter_helpi/static/js/main.897eb3fc.js.map",
+    "main.68d1bb9e.css.map": "/starter_helpi/static/css/main.68d1bb9e.css.map",
+    "main.094a0a74.js.map": "/starter_helpi/static/js/main.094a0a74.js.map",
     "453.bad6c33a.chunk.js.map": "/starter_helpi/static/js/453.bad6c33a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b2d5da1.css",
-    "static/js/main.897eb3fc.js"
+    "static/css/main.68d1bb9e.css",
+    "static/js/main.094a0a74.js"
   ]
 }
