@@ -3,7 +3,7 @@
 > react-scripts test --coverage
 
 FAIL src/App.test.tsx
-  ✕ renders learn react link (30 ms)
+  ✕ renders learn react link (31 ms)
 
   ● renders learn react link
 
@@ -64,26 +64,26 @@ FAIL src/App.test.tsx
 -----------------------|---------|----------|---------|---------|-------------------
 File                   | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
 -----------------------|---------|----------|---------|---------|-------------------
-All files              |    6.22 |     1.92 |    5.76 |    6.34 |                   
+All files              |    5.99 |     1.88 |    5.66 |     6.1 |                   
  AboutMe.tsx           |       0 |      100 |       0 |       0 | 10-11             
  App.tsx               |   66.66 |       50 |      40 |   71.42 | 25-31,38          
  ButtonLink.tsx        |       0 |      100 |       0 |       0 | 11-16             
  ClearButton.tsx       |       0 |      100 |       0 |       0 | 4-15              
- DetailedQuestions.tsx |       0 |        0 |       0 |       0 | 20-387            
+ DetailedQuestions.tsx |       0 |        0 |       0 |       0 | 20-386            
  Loading.tsx           |     100 |      100 |     100 |     100 |                   
  ProgressBar.tsx       |    3.22 |        0 |       0 |    3.22 | 18-60             
  basicQuestion.tsx     |       0 |        0 |       0 |       0 | 12-172            
- basicresult.tsx       |       0 |      100 |       0 |       0 | 8-11              
+ basicresult.tsx       |       0 |        0 |       0 |       0 | 8-22              
  footer.tsx            |       0 |        0 |       0 |       0 | 8-28              
  homepage.tsx          |       0 |      100 |       0 |       0 | 7-8               
  index.tsx             |       0 |      100 |     100 |       0 | 16-44             
  loadingRedirect.tsx   |       0 |        0 |       0 |       0 | 4-14              
  navbar.tsx            |       0 |      100 |       0 |       0 | 10                
  reportWebVitals.ts    |       0 |        0 |       0 |       0 | 3-10              
- result.tsx            |       0 |        0 |       0 |       0 | 5-14              
+ result.tsx            |       0 |        0 |       0 |       0 | 5-25              
 -----------------------|---------|----------|---------|---------|-------------------
 Test Suites: 1 failed, 1 total
 Tests:       1 failed, 1 total
 Snapshots:   0 total
-Time:        3.071 s
+Time:        3.185 s
 Ran all test suites.
