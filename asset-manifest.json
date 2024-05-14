@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/starter_helpi/static/css/main.68d1bb9e.css",
-    "main.js": "/starter_helpi/static/js/main.094a0a74.js",
+    "main.css": "/starter_helpi/static/css/main.3df42f8b.css",
+    "main.js": "/starter_helpi/static/js/main.00aa0ce1.js",
     "static/js/453.bad6c33a.chunk.js": "/starter_helpi/static/js/453.bad6c33a.chunk.js",
     "static/media/Viki-Photo.png": "/starter_helpi/static/media/Viki-Photo.115ad4791fdee0fc0c53.png",
     "static/media/Gia-Photo.png": "/starter_helpi/static/media/Gia-Photo.166b53938a825dc06400.png",
@@ -25,12 +25,12 @@
     "static/media/Sitting_orange.webp": "/starter_helpi/static/media/Sitting_orange.8be28bb42c34404adf37.webp",
     "static/media/calico_cat_sitting.webp": "/starter_helpi/static/media/calico_cat_sitting.337107d0ee70e29b0627.webp",
     "index.html": "/starter_helpi/index.html",
-    "main.68d1bb9e.css.map": "/starter_helpi/static/css/main.68d1bb9e.css.map",
-    "main.094a0a74.js.map": "/starter_helpi/static/js/main.094a0a74.js.map",
+    "main.3df42f8b.css.map": "/starter_helpi/static/css/main.3df42f8b.css.map",
+    "main.00aa0ce1.js.map": "/starter_helpi/static/js/main.00aa0ce1.js.map",
     "453.bad6c33a.chunk.js.map": "/starter_helpi/static/js/453.bad6c33a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68d1bb9e.css",
-    "static/js/main.094a0a74.js"
+    "static/css/main.3df42f8b.css",
+    "static/js/main.00aa0ce1.js"
   ]
 }
