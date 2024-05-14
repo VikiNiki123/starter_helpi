@@ -75,7 +75,7 @@ All files              |     6.1 |     1.92 |    5.76 |    6.22 |
  basicQuestion.tsx     |       0 |        0 |       0 |       0 | 12-172            
  basicresult.tsx       |       0 |        0 |       0 |       0 | 8-22              
  footer.tsx            |       0 |        0 |       0 |       0 | 8-28              
- homepage.tsx          |       0 |      100 |       0 |       0 | 7-8               
+ homepage.tsx          |       0 |      100 |       0 |       0 | 6-7               
  index.tsx             |       0 |      100 |     100 |       0 | 16-44             
  loadingRedirect.tsx   |       0 |        0 |       0 |       0 | 4-14              
  navbar.tsx            |       0 |      100 |       0 |       0 | 10                
@@ -85,5 +85,5 @@ All files              |     6.1 |     1.92 |    5.76 |    6.22 |
 Test Suites: 1 failed, 1 total
 Tests:       1 failed, 1 total
 Snapshots:   0 total
-Time:        3.129 s
+Time:        3.344 s
 Ran all test suites.
