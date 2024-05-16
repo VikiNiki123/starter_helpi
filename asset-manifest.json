@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/starter_helpi/static/css/main.0d104980.css",
-    "main.js": "/starter_helpi/static/js/main.67c5b110.js",
+    "main.css": "/starter_helpi/static/css/main.5126627b.css",
+    "main.js": "/starter_helpi/static/js/main.f2d6f6ad.js",
     "static/js/453.bad6c33a.chunk.js": "/starter_helpi/static/js/453.bad6c33a.chunk.js",
     "static/media/Viki-Photo.png": "/starter_helpi/static/media/Viki-Photo.a0bcff7332c20cd43790.png",
     "static/media/Gia-Photo.png": "/starter_helpi/static/media/Gia-Photo.c991a6c145fa66e29be8.png",
@@ -17,6 +17,7 @@
     "static/media/detailed_prev_button.png": "/starter_helpi/static/media/detailed_prev_button.64fb5b91b23d5308c2fe.png",
     "static/media/cat-paw-button.png": "/starter_helpi/static/media/cat-paw-button.d1eaa5453914cc013008.png",
     "static/media/CISC-progress-cat-fight.gif": "/starter_helpi/static/media/CISC-progress-cat-fight.b60c2370c98d837a8838.gif",
+    "static/media/loader-cat.png": "/starter_helpi/static/media/loader-cat.63a0e11531f0eee35b15.png",
     "static/media/CISC-progress-cat-walking.gif": "/starter_helpi/static/media/CISC-progress-cat-walking.b7ca1a0127d7cfa4da74.gif",
     "static/media/CISC-progress-cat-eat.gif": "/starter_helpi/static/media/CISC-progress-cat-eat.4a11de2770f1d6078a54.gif",
     "static/media/Minecraft.ttf": "/starter_helpi/static/media/Minecraft.81f6c7f882fcc2dee106.ttf",
@@ -25,12 +26,12 @@
     "static/media/Sitting_orange.webp": "/starter_helpi/static/media/Sitting_orange.8be28bb42c34404adf37.webp",
     "static/media/calico_cat_sitting.webp": "/starter_helpi/static/media/calico_cat_sitting.337107d0ee70e29b0627.webp",
     "index.html": "/starter_helpi/index.html",
-    "main.0d104980.css.map": "/starter_helpi/static/css/main.0d104980.css.map",
-    "main.67c5b110.js.map": "/starter_helpi/static/js/main.67c5b110.js.map",
+    "main.5126627b.css.map": "/starter_helpi/static/css/main.5126627b.css.map",
+    "main.f2d6f6ad.js.map": "/starter_helpi/static/js/main.f2d6f6ad.js.map",
     "453.bad6c33a.chunk.js.map": "/starter_helpi/static/js/453.bad6c33a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d104980.css",
-    "static/js/main.67c5b110.js"
+    "static/css/main.5126627b.css",
+    "static/js/main.f2d6f6ad.js"
   ]
 }
