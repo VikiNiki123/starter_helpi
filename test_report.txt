@@ -64,26 +64,27 @@ FAIL src/App.test.tsx
 -----------------------|---------|----------|---------|---------|-------------------
 File                   | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
 -----------------------|---------|----------|---------|---------|-------------------
-All files              |    5.67 |     1.85 |    5.45 |    5.85 |                   
+All files              |    4.12 |     1.53 |    3.79 |    4.22 |                   
  AboutMe.tsx           |       0 |      100 |       0 |       0 | 10-11             
  App.tsx               |   66.66 |       50 |      40 |   71.42 | 25-31,38          
  ButtonLink.tsx        |       0 |      100 |       0 |       0 | 11-16             
  ClearButton.tsx       |       0 |      100 |       0 |       0 | 4-15              
- DetailedQuestions.tsx |       0 |        0 |       0 |       0 | 21-409            
+ DetailedQuestions.tsx |       0 |        0 |       0 |       0 | 23-451            
  Loading.tsx           |     100 |      100 |     100 |     100 |                   
+ Music.tsx             |       0 |        0 |       0 |       0 | 10-56             
  ProgressBar.tsx       |    3.22 |        0 |       0 |    3.22 | 18-60             
- basicQuestion.tsx     |       0 |        0 |       0 |       0 | 13-186            
- basicresult.tsx       |       0 |        0 |       0 |       0 | 8-22              
+ basicQuestion.tsx     |       0 |        0 |       0 |       0 | 15-237            
+ basicresult.tsx       |       0 |      100 |       0 |       0 | 8-23              
  footer.tsx            |       0 |        0 |       0 |       0 | 8-28              
- homepage.tsx          |       0 |      100 |       0 |       0 | 6-7               
+ homepage.tsx          |       0 |      100 |       0 |       0 | 6-12              
  index.tsx             |       0 |      100 |     100 |       0 | 16-44             
  loadingRedirect.tsx   |       0 |        0 |       0 |       0 | 4-14              
- navbar.tsx            |       0 |      100 |       0 |       0 | 10                
+ navbar.tsx            |       0 |      100 |       0 |       0 | 9-15              
  reportWebVitals.ts    |       0 |        0 |       0 |       0 | 3-10              
  result.tsx            |       0 |      100 |       0 |       0 | 6-13              
 -----------------------|---------|----------|---------|---------|-------------------
 Test Suites: 1 failed, 1 total
 Tests:       1 failed, 1 total
 Snapshots:   0 total
-Time:        3.151 s
+Time:        3.495 s
 Ran all test suites.
