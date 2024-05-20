@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/starter_helpi/static/css/main.685e452c.css",
-    "main.js": "/starter_helpi/static/js/main.1c2b3247.js",
+    "main.js": "/starter_helpi/static/js/main.b567ece8.js",
     "static/js/453.bad6c33a.chunk.js": "/starter_helpi/static/js/453.bad6c33a.chunk.js",
     "static/media/C418 - Minecraft - Minecraft Volume Alpha.mp3": "/starter_helpi/static/media/C418 - Minecraft - Minecraft Volume Alpha.1765dea0d7f759e91dcf.mp3",
     "static/media/C418 - Subwoofer Lullaby - Minecraft Volume Alpha.mp3": "/starter_helpi/static/media/C418 - Subwoofer Lullaby - Minecraft Volume Alpha.de3297deeaaa04b94f25.mp3",
@@ -36,11 +36,11 @@
     "index.html": "/starter_helpi/index.html",
     "static/media/Music_Disc_Creator_(Music_Box)_JE1_BE1.webp": "/starter_helpi/static/media/Music_Disc_Creator_(Music_Box)_JE1_BE1.4ec8914dde4efe27a344.webp",
     "main.685e452c.css.map": "/starter_helpi/static/css/main.685e452c.css.map",
-    "main.1c2b3247.js.map": "/starter_helpi/static/js/main.1c2b3247.js.map",
+    "main.b567ece8.js.map": "/starter_helpi/static/js/main.b567ece8.js.map",
     "453.bad6c33a.chunk.js.map": "/starter_helpi/static/js/453.bad6c33a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.685e452c.css",
-    "static/js/main.1c2b3247.js"
+    "static/js/main.b567ece8.js"
   ]
 }
