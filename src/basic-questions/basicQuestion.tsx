@@ -166,7 +166,7 @@ const Questionnaire: React.FC = () => {
   const progressPercentage = (answeredCount / questions.length) * 100;
 //Handling API call, detailed documentations below:
   const handleSubmission = async () => {
-    //Stop the current song that the Music Player component is playing
+    //Stop the current song that the Music Player component is playing.
     musicPlayerRef.current.stopMusic();
     //Play the cat meow sound
     playSubmitSound();
